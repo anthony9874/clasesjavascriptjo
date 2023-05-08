@@ -16,7 +16,7 @@ if (respueta == "ECMAScript") {
 */
 //ejercicio 3
 
-let respueta = prompt("inserta un número");
+/*let respueta = prompt("inserta un número");
 if (respueta == "0" )   {
   alert( "0" );
 } 
@@ -32,6 +32,20 @@ else if  ( respuesta < "0"){
 
 else {
     alert ( "no registro de numero");
-}
+} */
     
+/*let message = (a+b<4) ? 'debajo':
+  'encima';
+   alert(message);
+*/
+/*
+   let login = prompt("introduce un valor");
+
+
+   let result = (login == 'empleado') ? 'hola':
+   (login == 'Director')  ?   'felicidades'    :
+   (login == '')          ?   'sin sesion'     :
+  '' ;
+   alert(result);
+*/
 
